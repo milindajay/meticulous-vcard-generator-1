@@ -74,10 +74,10 @@ export const CONTACT_DATA: Contact[] = [
     },
     // Ravindra Ranaveera
     {
-        slug: 'ravindra-ranaveera',
-        name: 'Ravindra Ranaveera',
+        slug: 'ravindra-ranaweera',
+        name: 'Ravindra Ranaweera',
         firstName: 'Ravindra',
-        lastName: 'Ranaveera',
+        lastName: 'Ranaweera',
         designation: 'Manager - Operations',
         phone: '+94766007654',
         email: 'ravindra@meticulous.lk',
